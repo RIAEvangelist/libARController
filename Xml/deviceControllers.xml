@@ -33,7 +33,7 @@
 <deviceControllers>
     list of all ARController_Device
     <ARController_Device name="ARDrone" product="ARDRONE" flags="can_be_extension">
-        Bebop Drone project
+        AR Drone project
         <feature name="common"/>
         <feature name="ardrone3"/>
         <feature name="generic"/>
